@@ -2,6 +2,21 @@
    If you want to learn more about writing documentation, please check out: http://docs.plone.org/about/documentation_styleguide.html
    This text does not appear on pypi or github. It is a comment.
 
+.. image:: https://img.shields.io/pypi/v/unibo.vocabularies.svg
+    :target: https://pypi.python.org/pypi/unibo.vocabularies/
+    :alt: Latest Version
+
+.. image:: https://img.shields.io/pypi/status/unibo.vocabularies.svg
+    :target: https://pypi.python.org/pypi/unibo.vocabularies
+    :alt: Egg Status
+
+.. image:: https://img.shields.io/pypi/pyversions/unibo.vocabularies.svg?style=plastic   :alt: Supported - Python Versions
+
+.. image:: https://img.shields.io/pypi/l/unibo.vocabularies.svg
+    :target: https://pypi.python.org/pypi/unibo.vocabularies/
+    :alt: License
+
+
 ==================
 unibo.vocabularies
 ==================
