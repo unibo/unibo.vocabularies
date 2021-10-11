@@ -9,7 +9,8 @@ import json
 # update
 # wget -O italian_universities.json "http://dati.ustat.miur.it/api/3/action/datastore_search?resource_id=a332a119-6c4b-44f5-80eb-3aca45a9e8e8&"
 
-italianUniversities = json.loads(pkg_resources.resource_filename('unibo.vocabularies', "italian_universities.json"))["result"]["records"]
+import pdb; pdb.set_trace()
+italianUniversities = json.loads(pkg_resources.resource_string('unibo.vocabularies', "italian_universities.json"))["result"]["records"]
 
 italianUniversitiesVocabulary = SimpleVocabulary([
     SimpleTerm(value=item["COD_Ateneo"], token=item["COD_Ateneo"], title=item["NomeEsteso"])
