@@ -16,6 +16,10 @@
     :target: https://pypi.python.org/pypi/unibo.vocabularies/
     :alt: License
 
+.. image:: https://github.com/collective/unibo.vocabularies/actions/workflows/tests.yml/badge.svg
+    :target: https://github.com/collective/unibo.vocabularies/actions
+    :alt: Tests
+
 
 ==================
 unibo.vocabularies
