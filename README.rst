@@ -17,7 +17,7 @@
     :alt: License
 
 .. image:: https://github.com/collective/unibo.vocabularies/actions/workflows/tests.yml/badge.svg
-    :target: https://github.com/collective/unibo.vocabularies/actions
+    :target: https://github.com/unibo/unibo.vocabularies/actions
     :alt: Tests
 
 
