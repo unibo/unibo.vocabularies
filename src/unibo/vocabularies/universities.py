@@ -1,6 +1,8 @@
 import pkg_resources
+
 from zope.schema.vocabulary import SimpleTerm
 from zope.schema.vocabulary import SimpleVocabulary
+from plone.i18n.normalizer.base import baseNormalize
 
 import json
 
@@ -13,5 +15,5 @@ italianUniversities = json.loads(pkg_resources.resource_string('unibo.vocabulari
 
 italianUniversitiesVocabulary = SimpleVocabulary([
     SimpleTerm(value=item["COD_Ateneo"], token=item["COD_Ateneo"], title=item["NomeEsteso"])
-    for item in italianUniversities
+    for item in sorted(italianUniversities, key=lambda d: d['NomeEsteso'])
 ])
