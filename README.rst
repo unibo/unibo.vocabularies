@@ -77,6 +77,7 @@ Contribute
 - Source Code: https://github.com/collective/unibo.vocabularies
 - Documentation: https://docs.plone.org/foo/bar
 
+Please DO NOT commit to main directly. Even for the smallest and most trivial fix. ALWAYS open a pull request and ask somebody else to merge your code. NEVER merge it yourself.
 
 Support
 -------
