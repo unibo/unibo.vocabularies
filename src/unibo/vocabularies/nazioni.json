@@ -1,0 +1,1214 @@
+{
+    "Nazioni": [
+        {
+            "Sigla Estesa": "AFG",
+            "Descrizione": "Afghanistan",
+            "Sigla": "AF"
+        },
+        {
+            "Sigla Estesa": "ALB",
+            "Descrizione": "Albania",
+            "Sigla": "AL"
+        },
+        {
+            "Sigla Estesa": "DZA",
+            "Descrizione": "Algeria",
+            "Sigla": "DZ"
+        },
+        {
+            "Sigla Estesa": "AND",
+            "Descrizione": "Andorra",
+            "Sigla": "AD"
+        },
+        {
+            "Sigla Estesa": "AGO",
+            "Descrizione": "Angola",
+            "Sigla": "AO"
+        },
+        {
+            "Sigla Estesa": "AIA",
+            "Descrizione": "Anguilla",
+            "Sigla": "AI"
+        },
+        {
+            "Sigla Estesa": "ATA",
+            "Descrizione": "Antartide",
+            "Sigla": "AQ"
+        },
+        {
+            "Sigla Estesa": "ATG",
+            "Descrizione": "Antigua e Barbuda",
+            "Sigla": "AG"
+        },
+        {
+            "Sigla Estesa": "ANT",
+            "Descrizione": "Antille Olandesi",
+            "Sigla": "AN"
+        },
+        {
+            "Sigla Estesa": "SAU",
+            "Descrizione": "Arabia Saudita",
+            "Sigla": "SA"
+        },
+        {
+            "Sigla Estesa": "ARG",
+            "Descrizione": "Argentina",
+            "Sigla": "AR"
+        },
+        {
+            "Sigla Estesa": "ARM",
+            "Descrizione": "Armenia",
+            "Sigla": "AM"
+        },
+        {
+            "Sigla Estesa": "ABW",
+            "Descrizione": "Aruba",
+            "Sigla": "AW"
+        },
+        {
+            "Sigla Estesa": "AUS",
+            "Descrizione": "Australia",
+            "Sigla": "AU"
+        },
+        {
+            "Sigla Estesa": "AUT",
+            "Descrizione": "Austria",
+            "Sigla": "AT"
+        },
+        {
+            "Sigla Estesa": "AZE",
+            "Descrizione": "Azerbaijan",
+            "Sigla": "AZ"
+        },
+        {
+            "Sigla Estesa": "BHS",
+            "Descrizione": "Bahamas",
+            "Sigla": "BS"
+        },
+        {
+            "Sigla Estesa": "BHR",
+            "Descrizione": "Bahrain",
+            "Sigla": "BH"
+        },
+        {
+            "Sigla Estesa": "BGD",
+            "Descrizione": "Bangladesh",
+            "Sigla": "BD"
+        },
+        {
+            "Sigla Estesa": "BRB",
+            "Descrizione": "Barbados",
+            "Sigla": "BB"
+        },
+        {
+            "Sigla Estesa": "BEL",
+            "Descrizione": "Belgio",
+            "Sigla": "BE"
+        },
+        {
+            "Sigla Estesa": "BLZ",
+            "Descrizione": "Belize",
+            "Sigla": "BZ"
+        },
+        {
+            "Sigla Estesa": "BEN",
+            "Descrizione": "Benin",
+            "Sigla": "BJ"
+        },
+        {
+            "Sigla Estesa": "BMU",
+            "Descrizione": "Bermuda",
+            "Sigla": "BM"
+        },
+        {
+            "Sigla Estesa": "BLR",
+            "Descrizione": "Bielorussia",
+            "Sigla": "BY"
+        },
+        {
+            "Sigla Estesa": "BTN",
+            "Descrizione": "Bhutan",
+            "Sigla": "BT"
+        },
+        {
+            "Sigla Estesa": "BOL",
+            "Descrizione": "Bolivia",
+            "Sigla": "BO"
+        },
+        {
+            "Sigla Estesa": "BIH",
+            "Descrizione": "Bosnia Erzegovina",
+            "Sigla": "BA"
+        },
+        {
+            "Sigla Estesa": "BWA",
+            "Descrizione": "Botswana",
+            "Sigla": "BW"
+        },
+        {
+            "Sigla Estesa": "BRA",
+            "Descrizione": "Brasile",
+            "Sigla": "BR"
+        },
+        {
+            "Sigla Estesa": "BRN",
+            "Descrizione": "Brunei Darussalam",
+            "Sigla": "BN"
+        },
+        {
+            "Sigla Estesa": "BGR",
+            "Descrizione": "Bulgaria",
+            "Sigla": "BG"
+        },
+        {
+            "Sigla Estesa": "BFA",
+            "Descrizione": "Burkina Faso",
+            "Sigla": "BF"
+        },
+        {
+            "Sigla Estesa": "BDI",
+            "Descrizione": "Burundi",
+            "Sigla": "BI"
+        },
+        {
+            "Sigla Estesa": "KHM",
+            "Descrizione": "Cambogia",
+            "Sigla": "KH"
+        },
+        {
+            "Sigla Estesa": "CMR",
+            "Descrizione": "Camerun",
+            "Sigla": "CM"
+        },
+        {
+            "Sigla Estesa": "CAN",
+            "Descrizione": "Canada",
+            "Sigla": "CA"
+        },
+        {
+            "Sigla Estesa": "CPV",
+            "Descrizione": "Capo Verde",
+            "Sigla": "CV"
+        },
+        {
+            "Sigla Estesa": "TCD",
+            "Descrizione": "Ciad",
+            "Sigla": "TD"
+        },
+        {
+            "Sigla Estesa": "CHL",
+            "Descrizione": "Cile",
+            "Sigla": "CL"
+        },
+        {
+            "Sigla Estesa": "CHN",
+            "Descrizione": "Cina",
+            "Sigla": "CN"
+        },
+        {
+            "Sigla Estesa": "CYP",
+            "Descrizione": "Cipro",
+            "Sigla": "CY"
+        },
+        {
+            "Sigla Estesa": "VAT",
+            "Descrizione": "Citta del Vaticano",
+            "Sigla": "VA"
+        },
+        {
+            "Sigla Estesa": "COL",
+            "Descrizione": "Colombia",
+            "Sigla": "CO"
+        },
+        {
+            "Sigla Estesa": "COM",
+            "Descrizione": "Comore",
+            "Sigla": "KM"
+        },
+        {
+            "Sigla Estesa": "PRK",
+            "Descrizione": "Corea del Nord",
+            "Sigla": "KP"
+        },
+        {
+            "Sigla Estesa": "KOR",
+            "Descrizione": "Corea del Sud",
+            "Sigla": "KR"
+        },
+        {
+            "Sigla Estesa": "CRI",
+            "Descrizione": "Costa Rica",
+            "Sigla": "CR"
+        },
+        {
+            "Sigla Estesa": "CIV",
+            "Descrizione": "Costa d'Avorio",
+            "Sigla": "CI"
+        },
+        {
+            "Sigla Estesa": "HRV",
+            "Descrizione": "Croazia",
+            "Sigla": "HR"
+        },
+        {
+            "Sigla Estesa": "CUB",
+            "Descrizione": "Cuba",
+            "Sigla": "CU"
+        },
+        {
+            "Sigla Estesa": "DNK",
+            "Descrizione": "Danimarca",
+            "Sigla": "DK"
+        },
+        {
+            "Sigla Estesa": "DMA",
+            "Descrizione": "Dominica",
+            "Sigla": "DM"
+        },
+        {
+            "Sigla Estesa": "ECU",
+            "Descrizione": "Ecuador",
+            "Sigla": "EC"
+        },
+        {
+            "Sigla Estesa": "EGY",
+            "Descrizione": "Egitto",
+            "Sigla": "EG"
+        },
+        {
+            "Sigla Estesa": "IRL",
+            "Descrizione": "Eire",
+            "Sigla": "IE"
+        },
+        {
+            "Sigla Estesa": "SLV",
+            "Descrizione": "El Salvador",
+            "Sigla": "SV"
+        },
+        {
+            "Sigla Estesa": "ARE",
+            "Descrizione": "Emirati Arabi Uniti",
+            "Sigla": "AE"
+        },
+        {
+            "Sigla Estesa": "ERI",
+            "Descrizione": "Eritrea",
+            "Sigla": "ER"
+        },
+        {
+            "Sigla Estesa": "EST",
+            "Descrizione": "Estonia",
+            "Sigla": "EE"
+        },
+        {
+            "Sigla Estesa": "ETH",
+            "Descrizione": "Etiopia",
+            "Sigla": "ET"
+        },
+        {
+            "Sigla Estesa": "RUS",
+            "Descrizione": "Federazione Russa",
+            "Sigla": "RU"
+        },
+        {
+            "Sigla Estesa": "FJI",
+            "Descrizione": "Fiji",
+            "Sigla": "FJ"
+        },
+        {
+            "Sigla Estesa": "PHL",
+            "Descrizione": "Filippine",
+            "Sigla": "PH"
+        },
+        {
+            "Sigla Estesa": "FIN",
+            "Descrizione": "Finlandia",
+            "Sigla": "FI"
+        },
+        {
+            "Sigla Estesa": "FRA",
+            "Descrizione": "Francia",
+            "Sigla": "FR"
+        },
+        {
+            "Sigla Estesa": "GAB",
+            "Descrizione": "Gabon",
+            "Sigla": "GA"
+        },
+        {
+            "Sigla Estesa": "GMB",
+            "Descrizione": "Gambia",
+            "Sigla": "GM"
+        },
+        {
+            "Sigla Estesa": "GEO",
+            "Descrizione": "Georgia",
+            "Sigla": "GE"
+        },
+        {
+            "Sigla Estesa": "DEU",
+            "Descrizione": "Germania",
+            "Sigla": "DE"
+        },
+        {
+            "Sigla Estesa": "GHA",
+            "Descrizione": "Ghana",
+            "Sigla": "GH"
+        },
+        {
+            "Sigla Estesa": "JAM",
+            "Descrizione": "Giamaica",
+            "Sigla": "JM"
+        },
+        {
+            "Sigla Estesa": "JPN",
+            "Descrizione": "Giappone",
+            "Sigla": "JP"
+        },
+        {
+            "Sigla Estesa": "GIB",
+            "Descrizione": "Gibilterra",
+            "Sigla": "GI"
+        },
+        {
+            "Sigla Estesa": "DJI",
+            "Descrizione": "Gibuti",
+            "Sigla": "DJ"
+        },
+        {
+            "Sigla Estesa": "JOR",
+            "Descrizione": "Giordania",
+            "Sigla": "JO"
+        },
+        {
+            "Sigla Estesa": "GRC",
+            "Descrizione": "Grecia",
+            "Sigla": "GR"
+        },
+        {
+            "Sigla Estesa": "GRD",
+            "Descrizione": "Grenada",
+            "Sigla": "GD"
+        },
+        {
+            "Sigla Estesa": "GRL",
+            "Descrizione": "Groenlandia",
+            "Sigla": "GL"
+        },
+        {
+            "Sigla Estesa": "GLP",
+            "Descrizione": "Guadalupa",
+            "Sigla": "GP"
+        },
+        {
+            "Sigla Estesa": "GUM",
+            "Descrizione": "Guam",
+            "Sigla": "GU"
+        },
+        {
+            "Sigla Estesa": "GTM",
+            "Descrizione": "Guatemala",
+            "Sigla": "GT"
+        },
+        {
+            "Sigla Estesa": "GIN",
+            "Descrizione": "Guinea",
+            "Sigla": "GN"
+        },
+        {
+            "Sigla Estesa": "GNB",
+            "Descrizione": "Guinea-Bissau",
+            "Sigla": "GW"
+        },
+        {
+            "Sigla Estesa": "GNQ",
+            "Descrizione": "Guinea Equatoriale",
+            "Sigla": "GQ"
+        },
+        {
+            "Sigla Estesa": "GUY",
+            "Descrizione": "Guyana",
+            "Sigla": "GY"
+        },
+        {
+            "Sigla Estesa": "GUF",
+            "Descrizione": "Guyana Francese",
+            "Sigla": "GF"
+        },
+        {
+            "Sigla Estesa": "HTI",
+            "Descrizione": "Haiti",
+            "Sigla": "HT"
+        },
+        {
+            "Sigla Estesa": "HND",
+            "Descrizione": "Honduras",
+            "Sigla": "HN"
+        },
+        {
+            "Sigla Estesa": "HKG",
+            "Descrizione": "Hong Kong",
+            "Sigla": "HK"
+        },
+        {
+            "Sigla Estesa": "IND",
+            "Descrizione": "India",
+            "Sigla": "IN"
+        },
+        {
+            "Sigla Estesa": "IDN",
+            "Descrizione": "Indonesia",
+            "Sigla": "ID"
+        },
+        {
+            "Sigla Estesa": "IRN",
+            "Descrizione": "Iran",
+            "Sigla": "IR"
+        },
+        {
+            "Sigla Estesa": "IRQ",
+            "Descrizione": "Iraq",
+            "Sigla": "IQ"
+        },
+        {
+            "Sigla Estesa": "BVT",
+            "Descrizione": "Isola di Bouvet",
+            "Sigla": "BV"
+        },
+        {
+            "Sigla Estesa": "CXR",
+            "Descrizione": "Isola di Natale",
+            "Sigla": "CX"
+        },
+        {
+            "Sigla Estesa": "HMD",
+            "Descrizione": "Isola Heard e Isole McDonald",
+            "Sigla": "HM"
+        },
+        {
+            "Sigla Estesa": "CYM",
+            "Descrizione": "Isole Cayman",
+            "Sigla": "KY"
+        },
+        {
+            "Sigla Estesa": "CCK",
+            "Descrizione": "Isole Cocos",
+            "Sigla": "CC"
+        },
+        {
+            "Sigla Estesa": "COK",
+            "Descrizione": "Isole Cook",
+            "Sigla": "CK"
+        },
+        {
+            "Sigla Estesa": "FLK",
+            "Descrizione": "Isole Falkland",
+            "Sigla": "FK"
+        },
+        {
+            "Sigla Estesa": "FRO",
+            "Descrizione": "Isole Faroe",
+            "Sigla": "FO"
+        },
+        {
+            "Sigla Estesa": "MHL",
+            "Descrizione": "Isole Marshall",
+            "Sigla": "MH"
+        },
+        {
+            "Sigla Estesa": "MNP",
+            "Descrizione": "Isole Marianne Settentrionali",
+            "Sigla": "MP"
+        },
+        {
+            "Sigla Estesa": "UMI",
+            "Descrizione": "Isole Minori degli Stati Uniti d'America",
+            "Sigla": "UM"
+        },
+        {
+            "Sigla Estesa": "NFK",
+            "Descrizione": "Isola Norfolk",
+            "Sigla": "NF"
+        },
+        {
+            "Sigla Estesa": "SLB",
+            "Descrizione": "Isole Solomon",
+            "Sigla": "SB"
+        },
+        {
+            "Sigla Estesa": "TCA",
+            "Descrizione": "Isole Turks e Caicos",
+            "Sigla": "TC"
+        },
+        {
+            "Sigla Estesa": "VIR",
+            "Descrizione": "Isole Vergini Americane",
+            "Sigla": "VI"
+        },
+        {
+            "Sigla Estesa": "VGB",
+            "Descrizione": "Isole Vergini Britanniche",
+            "Sigla": "VG"
+        },
+        {
+            "Sigla Estesa": "ISR",
+            "Descrizione": "Israele",
+            "Sigla": "IL"
+        },
+        {
+            "Sigla Estesa": "ISL",
+            "Descrizione": "Islanda",
+            "Sigla": "IS"
+        },
+        {
+            "Sigla Estesa": "ITA",
+            "Descrizione": "Italia",
+            "Sigla": "IT"
+        },
+        {
+            "Sigla Estesa": "KAZ",
+            "Descrizione": "Kazakhistan",
+            "Sigla": "KZ"
+        },
+        {
+            "Sigla Estesa": "KEN",
+            "Descrizione": "Kenya",
+            "Sigla": "KE"
+        },
+        {
+            "Sigla Estesa": "KGZ",
+            "Descrizione": "Kirghizistan",
+            "Sigla": "KG"
+        },
+        {
+            "Sigla Estesa": "KIR",
+            "Descrizione": "Kiribati",
+            "Sigla": "KI"
+        },
+        {
+            "Sigla Estesa": "KWT",
+            "Descrizione": "Kuwait",
+            "Sigla": "KW"
+        },
+        {
+            "Sigla Estesa": "LAO",
+            "Descrizione": "Laos",
+            "Sigla": "LA"
+        },
+        {
+            "Sigla Estesa": "LVA",
+            "Descrizione": "Lettonia",
+            "Sigla": "LV"
+        },
+        {
+            "Sigla Estesa": "LSO",
+            "Descrizione": "Lesotho",
+            "Sigla": "LS"
+        },
+        {
+            "Sigla Estesa": "LBN",
+            "Descrizione": "Libano",
+            "Sigla": "LB"
+        },
+        {
+            "Sigla Estesa": "LBR",
+            "Descrizione": "Liberia",
+            "Sigla": "LR"
+        },
+        {
+            "Sigla Estesa": "LBY",
+            "Descrizione": "Libia",
+            "Sigla": "LY"
+        },
+        {
+            "Sigla Estesa": "LIE",
+            "Descrizione": "Liechtenstein",
+            "Sigla": "LI"
+        },
+        {
+            "Sigla Estesa": "LTU",
+            "Descrizione": "Lituania",
+            "Sigla": "LT"
+        },
+        {
+            "Sigla Estesa": "LUX",
+            "Descrizione": "Lussemburgo",
+            "Sigla": "LU"
+        },
+        {
+            "Sigla Estesa": "MAC",
+            "Descrizione": "Macao",
+            "Sigla": "MO"
+        },
+        {
+            "Sigla Estesa": "MKD",
+            "Descrizione": "Macedonia",
+            "Sigla": "MK"
+        },
+        {
+            "Sigla Estesa": "MDG",
+            "Descrizione": "Madagascar",
+            "Sigla": "MG"
+        },
+        {
+            "Sigla Estesa": "MWI",
+            "Descrizione": "Malawi",
+            "Sigla": "MW"
+        },
+        {
+            "Sigla Estesa": "MDV",
+            "Descrizione": "Maldive",
+            "Sigla": "MV"
+        },
+        {
+            "Sigla Estesa": "MYS",
+            "Descrizione": "Malesia",
+            "Sigla": "MY"
+        },
+        {
+            "Sigla Estesa": "MLI",
+            "Descrizione": "Mali",
+            "Sigla": "ML"
+        },
+        {
+            "Sigla Estesa": "MLT",
+            "Descrizione": "Malta",
+            "Sigla": "MT"
+        },
+        {
+            "Sigla Estesa": "MAR",
+            "Descrizione": "Marocco",
+            "Sigla": "MA"
+        },
+        {
+            "Sigla Estesa": "MTQ",
+            "Descrizione": "Martinica",
+            "Sigla": "MQ"
+        },
+        {
+            "Sigla Estesa": "MRT",
+            "Descrizione": "Mauritania",
+            "Sigla": "MR"
+        },
+        {
+            "Sigla Estesa": "MUS",
+            "Descrizione": "Maurizius",
+            "Sigla": "MU"
+        },
+        {
+            "Sigla Estesa": "MYT",
+            "Descrizione": "Mayotte",
+            "Sigla": "YT"
+        },
+        {
+            "Sigla Estesa": "MEX",
+            "Descrizione": "Messico",
+            "Sigla": "MX"
+        },
+        {
+            "Sigla Estesa": "MDA",
+            "Descrizione": "Moldavia",
+            "Sigla": "MD"
+        },
+        {
+            "Sigla Estesa": "MCO",
+            "Descrizione": "Monaco",
+            "Sigla": "MC"
+        },
+        {
+            "Sigla Estesa": "MNG",
+            "Descrizione": "Mongolia",
+            "Sigla": "MN"
+        },
+        {
+            "Sigla Estesa": "MSR",
+            "Descrizione": "Montserrat",
+            "Sigla": "MS"
+        },
+        {
+            "Sigla Estesa": "MOZ",
+            "Descrizione": "Mozambico",
+            "Sigla": "MZ"
+        },
+        {
+            "Sigla Estesa": "MMR",
+            "Descrizione": "Myanmar",
+            "Sigla": "MM"
+        },
+        {
+            "Sigla Estesa": "NAM",
+            "Descrizione": "Namibia",
+            "Sigla": "NA"
+        },
+        {
+            "Sigla Estesa": "NRU",
+            "Descrizione": "Nauru",
+            "Sigla": "NR"
+        },
+        {
+            "Sigla Estesa": "NPL",
+            "Descrizione": "Nepal",
+            "Sigla": "NP"
+        },
+        {
+            "Sigla Estesa": "NIC",
+            "Descrizione": "Nicaragua",
+            "Sigla": "NI"
+        },
+        {
+            "Sigla Estesa": "NER",
+            "Descrizione": "Niger",
+            "Sigla": "NE"
+        },
+        {
+            "Sigla Estesa": "NGA",
+            "Descrizione": "Nigeria",
+            "Sigla": "NG"
+        },
+        {
+            "Sigla Estesa": "NIU",
+            "Descrizione": "Niue",
+            "Sigla": "NU"
+        },
+        {
+            "Sigla Estesa": "NOR",
+            "Descrizione": "Norvegia",
+            "Sigla": "NO"
+        },
+        {
+            "Sigla Estesa": "NCL",
+            "Descrizione": "Nuova Caledonia",
+            "Sigla": "NC"
+        },
+        {
+            "Sigla Estesa": "NZL",
+            "Descrizione": "Nuova Zelanda",
+            "Sigla": "NZ"
+        },
+        {
+            "Sigla Estesa": "OMN",
+            "Descrizione": "Oman",
+            "Sigla": "OM"
+        },
+        {
+            "Sigla Estesa": "NLD",
+            "Descrizione": "Paesi Bassi",
+            "Sigla": "NL"
+        },
+        {
+            "Sigla Estesa": "PAK",
+            "Descrizione": "Pakistan",
+            "Sigla": "PK"
+        },
+        {
+            "Sigla Estesa": "PLW",
+            "Descrizione": "Palau",
+            "Sigla": "PW"
+        },
+        {
+            "Sigla Estesa": "PAN",
+            "Descrizione": "Panama",
+            "Sigla": "PA"
+        },
+        {
+            "Sigla Estesa": "PNG",
+            "Descrizione": "Papua Nuova Guinea",
+            "Sigla": "PG"
+        },
+        {
+            "Sigla Estesa": "PRY",
+            "Descrizione": "Paraguay",
+            "Sigla": "PY"
+        },
+        {
+            "Sigla Estesa": "PER",
+            "Descrizione": "Peru",
+            "Sigla": "PE"
+        },
+        {
+            "Sigla Estesa": "PCN",
+            "Descrizione": "Pitcairn",
+            "Sigla": "PN"
+        },
+        {
+            "Sigla Estesa": "PYF",
+            "Descrizione": "Polinesia Francese",
+            "Sigla": "PF"
+        },
+        {
+            "Sigla Estesa": "POL",
+            "Descrizione": "Polonia",
+            "Sigla": "PL"
+        },
+        {
+            "Sigla Estesa": "PRT",
+            "Descrizione": "Portogallo",
+            "Sigla": "PT"
+        },
+        {
+            "Sigla Estesa": "PRI",
+            "Descrizione": "Porto Rico",
+            "Sigla": "PR"
+        },
+        {
+            "Sigla Estesa": "QAT",
+            "Descrizione": "Qatar",
+            "Sigla": "QA"
+        },
+        {
+            "Sigla Estesa": "GBR",
+            "Descrizione": "Regno Unito",
+            "Sigla": "GB"
+        },
+        {
+            "Sigla Estesa": "CZE",
+            "Descrizione": "Repubblica Ceca",
+            "Sigla": "CZ"
+        },
+        {
+            "Sigla Estesa": "CAF",
+            "Descrizione": "Repubblica Centroafricana",
+            "Sigla": "CF"
+        },
+        {
+            "Sigla Estesa": "COG",
+            "Descrizione": "Repubblica del Congo",
+            "Sigla": "CG"
+        },
+        {
+            "Sigla Estesa": "COD",
+            "Descrizione": "Repubblica Democratica del Congo",
+            "Sigla": "CD"
+        },
+        {
+            "Sigla Estesa": "DOM",
+            "Descrizione": "Repubblica Dominicana",
+            "Sigla": "DO"
+        },
+        {
+            "Sigla Estesa": "REU",
+            "Descrizione": "Reunion",
+            "Sigla": "RE"
+        },
+        {
+            "Sigla Estesa": "ROU",
+            "Descrizione": "Romania",
+            "Sigla": "RO"
+        },
+        {
+            "Sigla Estesa": "RWA",
+            "Descrizione": "Ruanda",
+            "Sigla": "RW"
+        },
+        {
+            "Sigla Estesa": "ESH",
+            "Descrizione": "Sahara Occidentale",
+            "Sigla": "EH"
+        },
+        {
+            "Sigla Estesa": "KNA",
+            "Descrizione": "Saint Kitts e Nevis",
+            "Sigla": "KN"
+        },
+        {
+            "Sigla Estesa": "SPM",
+            "Descrizione": "Saint Pierre e Miquelon",
+            "Sigla": "PM"
+        },
+        {
+            "Sigla Estesa": "VCT",
+            "Descrizione": "Saint Vincent e Grenadine",
+            "Sigla": "VC"
+        },
+        {
+            "Sigla Estesa": "WSM",
+            "Descrizione": "Samoa",
+            "Sigla": "WS"
+        },
+        {
+            "Sigla Estesa": "ASM",
+            "Descrizione": "Samoa Americane",
+            "Sigla": "AS"
+        },
+        {
+            "Sigla Estesa": "SMR",
+            "Descrizione": "San Marino",
+            "Sigla": "SM"
+        },
+        {
+            "Sigla Estesa": "SHN",
+            "Descrizione": "Sant'Elena",
+            "Sigla": "SH"
+        },
+        {
+            "Sigla Estesa": "LCA",
+            "Descrizione": "Santa Lucia",
+            "Sigla": "LC"
+        },
+        {
+            "Sigla Estesa": "STP",
+            "Descrizione": "Sao Tome e Principe",
+            "Sigla": "ST"
+        },
+        {
+            "Sigla Estesa": "SEN",
+            "Descrizione": "Senegal",
+            "Sigla": "SN"
+        },
+        {
+            "Sigla Estesa": "XXK",
+            "Descrizione": "Kosovo",
+            "Sigla": "XK"
+        },
+        {
+            "Sigla Estesa": "SYC",
+            "Descrizione": "Seychelles",
+            "Sigla": "SC"
+        },
+        {
+            "Sigla Estesa": "SLE",
+            "Descrizione": "Sierra Leone",
+            "Sigla": "SL"
+        },
+        {
+            "Sigla Estesa": "SGP",
+            "Descrizione": "Singapore",
+            "Sigla": "SG"
+        },
+        {
+            "Sigla Estesa": "SYR",
+            "Descrizione": "Siria",
+            "Sigla": "SY"
+        },
+        {
+            "Sigla Estesa": "SVK",
+            "Descrizione": "Slovacchia",
+            "Sigla": "SK"
+        },
+        {
+            "Sigla Estesa": "SVN",
+            "Descrizione": "Slovenia",
+            "Sigla": "SI"
+        },
+        {
+            "Sigla Estesa": "SOM",
+            "Descrizione": "Somalia",
+            "Sigla": "SO"
+        },
+        {
+            "Sigla Estesa": "ESP",
+            "Descrizione": "Spagna",
+            "Sigla": "ES"
+        },
+        {
+            "Sigla Estesa": "LKA",
+            "Descrizione": "Sri Lanka",
+            "Sigla": "LK"
+        },
+        {
+            "Sigla Estesa": "FSM",
+            "Descrizione": "Stati Federati della Micronesia",
+            "Sigla": "FM"
+        },
+        {
+            "Sigla Estesa": "USA",
+            "Descrizione": "Stati Uniti d'America",
+            "Sigla": "US"
+        },
+        {
+            "Sigla Estesa": "ZAF",
+            "Descrizione": "Sud Africa",
+            "Sigla": "ZA"
+        },
+        {
+            "Sigla Estesa": "SGS",
+            "Descrizione": "Sud Georgia e Isole Sandwich",
+            "Sigla": "GS"
+        },
+        {
+            "Sigla Estesa": "SDN",
+            "Descrizione": "Sudan",
+            "Sigla": "SD"
+        },
+        {
+            "Sigla Estesa": "SUR",
+            "Descrizione": "Suriname",
+            "Sigla": "SR"
+        },
+        {
+            "Sigla Estesa": "SJM",
+            "Descrizione": "Svalbard e Jan Mayen",
+            "Sigla": "SJ"
+        },
+        {
+            "Sigla Estesa": "SWE",
+            "Descrizione": "Svezia",
+            "Sigla": "SE"
+        },
+        {
+            "Sigla Estesa": "CHE",
+            "Descrizione": "Svizzera",
+            "Sigla": "CH"
+        },
+        {
+            "Sigla Estesa": "SWZ",
+            "Descrizione": "Swaziland",
+            "Sigla": "SZ"
+        },
+        {
+            "Sigla Estesa": "TJK",
+            "Descrizione": "Tagikistan",
+            "Sigla": "TJ"
+        },
+        {
+            "Sigla Estesa": "THA",
+            "Descrizione": "Tailandia",
+            "Sigla": "TH"
+        },
+        {
+            "Sigla Estesa": "TWN",
+            "Descrizione": "Taiwan",
+            "Sigla": "TW"
+        },
+        {
+            "Sigla Estesa": "TZA",
+            "Descrizione": "Tanzania",
+            "Sigla": "TZ"
+        },
+        {
+            "Sigla Estesa": "IOT",
+            "Descrizione": "Territori Britannici dell'Oceano Indiano",
+            "Sigla": "IO"
+        },
+        {
+            "Sigla Estesa": "ATF",
+            "Descrizione": "Territori Francesi del Sud",
+            "Sigla": "TF"
+        },
+        {
+            "Sigla Estesa": "PSE",
+            "Descrizione": "Territori Palestinesi Occupati",
+            "Sigla": "PS"
+        },
+        {
+            "Sigla Estesa": "TLS",
+            "Descrizione": "Timor Est",
+            "Sigla": "TL"
+        },
+        {
+            "Sigla Estesa": "TGO",
+            "Descrizione": "Togo",
+            "Sigla": "TG"
+        },
+        {
+            "Sigla Estesa": "TKL",
+            "Descrizione": "Tokelau",
+            "Sigla": "TK"
+        },
+        {
+            "Sigla Estesa": "TON",
+            "Descrizione": "Tonga",
+            "Sigla": "TO"
+        },
+        {
+            "Sigla Estesa": "TTO",
+            "Descrizione": "Trinidad e Tobago",
+            "Sigla": "TT"
+        },
+        {
+            "Sigla Estesa": "TUN",
+            "Descrizione": "Tunisia",
+            "Sigla": "TN"
+        },
+        {
+            "Sigla Estesa": "TUR",
+            "Descrizione": "Turchia",
+            "Sigla": "TR"
+        },
+        {
+            "Sigla Estesa": "TKM",
+            "Descrizione": "Turkmenistan",
+            "Sigla": "TM"
+        },
+        {
+            "Sigla Estesa": "TUV",
+            "Descrizione": "Tuvalu",
+            "Sigla": "TV"
+        },
+        {
+            "Sigla Estesa": "UKR",
+            "Descrizione": "Ucraina",
+            "Sigla": "UA"
+        },
+        {
+            "Sigla Estesa": "UGA",
+            "Descrizione": "Uganda",
+            "Sigla": "UG"
+        },
+        {
+            "Sigla Estesa": "HUN",
+            "Descrizione": "Ungheria",
+            "Sigla": "HU"
+        },
+        {
+            "Sigla Estesa": "URY",
+            "Descrizione": "Uruguay",
+            "Sigla": "UY"
+        },
+        {
+            "Sigla Estesa": "UZB",
+            "Descrizione": "Uzbekistan",
+            "Sigla": "UZ"
+        },
+        {
+            "Sigla Estesa": "VUT",
+            "Descrizione": "Vanuatu",
+            "Sigla": "VU"
+        },
+        {
+            "Sigla Estesa": "VEN",
+            "Descrizione": "Venezuela",
+            "Sigla": "VE"
+        },
+        {
+            "Sigla Estesa": "VNM",
+            "Descrizione": "Vietnam",
+            "Sigla": "VN"
+        },
+        {
+            "Sigla Estesa": "WLF",
+            "Descrizione": "Wallis e Futuna",
+            "Sigla": "WF"
+        },
+        {
+            "Sigla Estesa": "YEM",
+            "Descrizione": "Yemen",
+            "Sigla": "YE"
+        },
+        {
+            "Sigla Estesa": "ZMB",
+            "Descrizione": "Zambia",
+            "Sigla": "ZM"
+        },
+        {
+            "Sigla Estesa": "ZWE",
+            "Descrizione": "Zimbabwe",
+            "Sigla": "ZW"
+        },
+        {
+            "Sigla Estesa": "SRB",
+            "Descrizione": "Serbia",
+            "Sigla": "RS"
+        },
+        {
+            "Sigla Estesa": "MNE",
+            "Descrizione": "Montenegro",
+            "Sigla": "ME"
+        },
+        {
+            "Sigla Estesa": "GGY",
+            "Descrizione": "Guernsey",
+            "Sigla": "GG"
+        }
+    ]
+}
