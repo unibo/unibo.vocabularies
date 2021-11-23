@@ -23,7 +23,7 @@ def locale_folder_setup():
         else:
             lc_messages_path = lang + '/LC_MESSAGES/'
             os.mkdir(lc_messages_path)
-            cmd = 'msginit --locale={0} --input={1}.pot --output={2}/LC_MESSAGES/{3}.po'.format(lang, domain, lang, domain)
+            cmd = 'msginit --locale={0} --input={1}.pot --output={2}/LC_MESSAGES/{3}.po'.format(lang, domain, lang, domain)  # NOQA
             subprocess.call(
                 cmd,
                 shell=True,

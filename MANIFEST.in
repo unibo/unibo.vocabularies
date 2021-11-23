@@ -1,4 +1,8 @@
-graft src/unibo
-graft docs
 include *.rst
-global-exclude *.pyc
+include *.txt
+include buildout.cfg
+include tox.ini
+
+recursive-include src *
+recursive-include docs *
+global-exclude *.pyc *.pyo *.mo
