@@ -5,6 +5,8 @@ Changelog
 1.0.1 (unreleased)
 ------------------
 
+- added Altro in university
+  [valentinaB]
 - fix university json with lost university
   [valentinaB]
 
