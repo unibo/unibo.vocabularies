@@ -22,11 +22,11 @@ italianUniversitiesVocabulary = SimpleVocabulary([
         token=item["COD_Ateneo"],
         title=item["NomeEsteso"],
     )
-    for item in sorted(italianUniversities, key=lambda d: d['NomeEsteso'] + [
+    for item in sorted(italianUniversities, key=lambda d: d['NomeEsteso'])
+] + [
       SimpleTerm(
         value="00000",
         token="00000",
         title="Altro",
     )  
-    ])
 ])
