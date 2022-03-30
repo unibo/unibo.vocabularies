@@ -27,6 +27,6 @@ italianUniversitiesVocabulary = SimpleVocabulary([
       SimpleTerm(
         value="00000",
         token="00000",
-        title="Altro/More",
+        title="Altro / Other",
     )  
 ])
